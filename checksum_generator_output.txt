@@ -1,0 +1,25 @@
+Script started on Thu Aug 15 18:53:19 2019
+[?1034hbash-3.2$ python3 /Users/teganbroderick/Documents/Coding/Checksums\ and\ Metadata/checksum_generator.py /Users/teganbroderi ck/Documents/Coding/Video\ Files 
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190721_155950.mp4
+MD5 checksum:  a4d6fcd2a47434e418088ba67fb69cb7
+
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190705_195303~2.mp4
+MD5 checksum:  ff7abf2fc931c3181fd3e69e39169daa
+
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190725_115036.mp4
+MD5 checksum:  f05edf2772ce9de6abc444ab94cc76c9
+
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190721_151441.mp4
+MD5 checksum:  c0095d31e7aea703114d2c6fa0d6fe4b
+
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190713_124553.mp4
+MD5 checksum:  95b46f41227b7aa77a36fad3bfc43d0e
+
+bash-3.2$ python3 /Users/teganbroderick/Documents/Coding/Checksums\ and\ Metadata/checksum_generator.py /Users/teganbroderi ck/Documents/Coding/Video\ Files/VID_20190705_195303\~2.mp4 
+Filepath:  /Users/teganbroderick/Documents/Coding/Video Files/VID_20190705_195303~2.mp4
+MD5 checksum:  ff7abf2fc931c3181fd3e69e39169daa
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Aug 15 18:54:02 2019

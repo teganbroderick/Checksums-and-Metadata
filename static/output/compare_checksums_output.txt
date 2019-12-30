@@ -1,0 +1,16 @@
+Script started on Thu Aug 15 17:30:17 2019
+[?1034hbash-3.2$ python3 /Users/teganbroderick/Documents/Coding/Checksum\ and\ Metadata 
+/compare_checksums.py /Users/teganbroderick/Documents/Coding/Checksum\ and\ Meta 
+data/Video\ Files/VID_20190705_195303\~2.mp4 /Users/teganbroderick/Documents/Cod 
+ing/Checksum\ and\ Metadata/Video\ Files\ copy/VID_20190705_195303\~2.mp4 
+File:  /Users/teganbroderick/Documents/Coding/Checksum and Metadata/Video Files/VID_20190705_195303~2.mp4
+MD5 checksum:  ff7abf2fc931c3181fd3e69e39169daa
+
+File:  /Users/teganbroderick/Documents/Coding/Checksum and Metadata/Video Files copy/VID_20190705_195303~2.mp4
+MD5 checksum:  ff7abf2fc931c3181fd3e69e39169daa
+
+Your files have been verified. The MD5 checksums are the same.
+bash-3.2$ exit
+exit
+
+Script done on Thu Aug 15 17:30:39 2019

@@ -1,4 +1,5 @@
-#metadata generator for video files
+#Metadata extractor for video files
+#Runs from terminal command line: python3 <script> <file>
 
 from hachoir.parser import createParser
 from hachoir.metadata import extractMetadata
@@ -6,7 +7,7 @@ from sys import argv, stderr, exit
 
 
 def get_metadata(filename):
-    """extract and print metadata info for file"""
+    """extract and print metadata information for file"""
     
     parser = createParser(filename)
 
@@ -21,12 +22,11 @@ def get_metadata(filename):
         return
     else:
         # print(dir(metadata))
-        print(dir(metadata.exportPlaintext))
+        # print(dir(metadata.exportPlaintext.__name__))
         # print(metadata.extract)
         # print(dir((metadata._Metadata__data['aspect_ratio']).description))
         for line in metadata.exportPlaintext():
             print(line)
-
 
 
 filename = argv[1]

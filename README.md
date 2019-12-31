@@ -1,8 +1,10 @@
-# Checksums and Metadata Application
+# Checksums and Metadata Tools
 
-This is a terminal-based application with several python scripts that: <br>
+This is a collection of command line tools. Several python scripts perform the following tasks: <br>
 * Generate MD5 checksums for files <br>
 * Verify file integrity across multiple locations<br>
 * Extract metadata from files <br>
 
-The app can be used for the documentation and preservation of video artwork files, and other born digital artworks/artifacts.
+The tools were built to automate and streamline parts of my former job as a museum collections manager. They can be used for the documentation and preservation of video artwork files, and other born digital artworks/artifacts.
+
+All scripts run in the Mac terminal.
